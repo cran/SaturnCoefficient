@@ -1,0 +1,12 @@
+dbefaad3af06e56d5f044663d25f18ad *DESCRIPTION
+1ca6e11165dcc2c65ed99d968eb357c9 *NAMESPACE
+ad22530f2e13210a53ac8a017601b0a6 *R/Saturn_coefficient.r
+a9e706eae1c31f7847d55770550dd1ae *build/vignette.rds
+2f26cf6ba213c5cfac6321c5299b7d44 *inst/doc/SaturnCoefficient.R
+a2035ad11e63a5c105fc46056cb8a785 *inst/doc/SaturnCoefficient.Rmd
+2eb1e2fb1847587e52a0028d553dbe7f *inst/doc/SaturnCoefficient.html
+76b6ec8149b0e1f80355b1eb2ad2c14f *man/Saturn_coefficient.Rd
+f670b6813ca24ea9a3d71dc6e56dea38 *man/continuity_score.Rd
+ef012d603d67d96e553f12c1c4f088af *man/three_metrics.Rd
+c4bcca40a507733a563fdbb5b3bb1ffc *man/trustworthiness_score.Rd
+a2035ad11e63a5c105fc46056cb8a785 *vignettes/SaturnCoefficient.Rmd
