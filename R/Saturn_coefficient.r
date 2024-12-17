@@ -159,9 +159,10 @@ continuity_score <- function(original_matrix, umap_output_layout, VERBOSE) {
 #' x_umap <- umap::umap(input_matrix, config=custom.settings)
 #'
 #' this_verbose <- FALSE
-#' theseThreeMetrics <- three_metrics(input_matrix, x_umap$"layout",  this_verbose)
+#' theseThreeMetrics <- calculatesSaturnContinuityTrustworthiness(input_matrix,
+#'      x_umap$"layout",  this_verbose)
 #' print(theseThreeMetrics)
-three_metrics <- function(original_matrix, umap_output_layout, VERBOSE) {
+calculatesSaturnContinuityTrustworthiness <- function(original_matrix, umap_output_layout, VERBOSE) {
 
         this_Saturn_score <- Saturn_coefficient(original_matrix, umap_output_layout, VERBOSE)
         this_continuity <- continuity_score(original_matrix, umap_output_layout, VERBOSE)
