@@ -1,6 +1,6 @@
-e5b79fb24d4c413481a69dbcdd8d4fe3 *DESCRIPTION
+f4b973830d5dde6da211397094ef415b *DESCRIPTION
 ca2d2959bbb8360e3462fea47f76fdda *NAMESPACE
-51aff3fafaf346195ff071ebedecacc9 *R/Saturn_coefficient.r
+307c88d9228713500a52e0840015b04a *R/Saturn_coefficient.r
 a9e706eae1c31f7847d55770550dd1ae *build/vignette.rds
 2f26cf6ba213c5cfac6321c5299b7d44 *inst/doc/SaturnCoefficient.R
 a2035ad11e63a5c105fc46056cb8a785 *inst/doc/SaturnCoefficient.Rmd
